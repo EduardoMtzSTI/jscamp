@@ -8,5 +8,10 @@
   },
   "keywords": [],
   "author": "",
-  "license": "ISC"
+  "license": "ISC",
+  "private": true,
+  "workspaces": [
+    "04-express",
+    "04-node"
+  ]
 }
